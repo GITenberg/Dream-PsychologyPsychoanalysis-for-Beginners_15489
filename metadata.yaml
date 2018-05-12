@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15489#Dream-PsychologyPsychoanalysis-for-Beginners
 gutenberg_bookshelf: Psychology
 gutenberg_issued: '2005-03-28'
 gutenberg_type: Text
