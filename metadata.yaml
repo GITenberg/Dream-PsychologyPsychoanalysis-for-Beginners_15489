@@ -1,0 +1,46 @@
+_repo: Dream-PsychologyPsychoanalysis-for-Beginners_15489
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Tridon, André
+    alias: Tridon, Andre
+    birthdate: 1877
+    deathdate: 1922
+    gutenberg_agent_id: '6658'
+    url: http://www.gutenberg.org/2009/agents/6658
+  translator:
+    agent_name: Eder, M. D. (Montague David)
+    aliases:
+    - Eder, David
+    - Eder, Montague David
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '38564'
+    url: http://www.gutenberg.org/2009/agents/38564
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2005-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dreams'
+- !lcc 'BF'
+- !lcsh 'Psychoanalysis'
+title: 'Dream Psychology: Psychoanalysis for Beginners'
+url: http://www.gutenberg.org/ebooks/15489
